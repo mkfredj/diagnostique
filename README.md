@@ -1,8 +1,7 @@
-# diagnostique
+# Diagnostique
 syteme de diagnostique de maladie a partir d'une liste de symptomes
 
 # How To Build/Run Tests :
-The project uses Java 1.8
 To compile/package run 'mvn clean install -DskipTests' in the project directory
 To test run 'mvn test' in the project directory
 
